@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo-main-dark.png" alt="VIZNSK logo" width="180">
+  <img src="logo-main-dark.png" alt="VIZNSK logo" width="180">
 </p>
 
 # VIZNSK
